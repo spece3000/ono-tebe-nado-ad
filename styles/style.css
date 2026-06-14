@@ -6,7 +6,7 @@ a, p {
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
-    padding: 100px 50px;
+    padding: 95px 50px;
 }
 .header__links-list {
     display: flex;
@@ -69,7 +69,7 @@ a, p {
 .aligned-text {
     letter-spacing: 30%;
 }
-.aligned-text-end{
+.aligned-text-end {
     letter-spacing: 0;
 }
 .aligned-text_center {
@@ -106,7 +106,7 @@ a, p {
     text-transform: uppercase;
 }
 .lots {
-    margin: 180px 24px 120px 24px;
+    margin: 180px 24px 150px 24px;
 }
 .lots__card-list {
     list-style: none;
